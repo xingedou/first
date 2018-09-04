@@ -1,0 +1,62 @@
+/* CSS Document */
+
+li{ list-style-type:none;}
+*{ margin:0; padding:0;}
+.hz{background:#333; height:50px;}
+.sy{ width:1206px; margin:0 auto; position:relative;}
+.sy ul{ display:inline-block; color:#000; position:absolute; margin-top:25px; font-size:16px; margin-left:50px;}
+.sy li{ display:inline-block; color:#000; width:20px; margin-right:40px;}
+.sy li:hover { color:#F00;}
+#btn{ background:#FFF; margin-left:53px;}
+#tn{ margin-left:20px; }
+
+#banner{ width:1200px; height:350px; margin:0 auto; position:relative; overflow:hidden;}
+.y1{ background-color:rgba(0,0,0,0.3) ;position:absolute; width:275px; height:350px;}
+.y1 li { color:#FFF; font-size:24px; line-height:60px;}
+.y1 ul { margin-top:20px; margin-left:90px;}
+#pic{position:absolute;}
+#banner li{ display:inline-block; width:1200px;}
+
+.xigua1 { width:1206px; margin:0 auto; background:#CCC; margin-top:10px; height:95px;}
+.zheng,.yazi,.hua { width:395px; display:inline-block; margin-left:3px;}
+.zheng li,.yazi li,.hua li { list-style-type:none;}
+.zheng h3,.hua h3 {  text-align:center;}
+.yazi h3 { text-align:center;}
+.xigua1 li span{ color:#666; margin-left:130px;}
+
+.xigua2{ width:1206px; margin:0 auto; vertical-align:top; margin-top:20px;}
+.jiankang,.hongbei,.weinin{ width:350px; display:inline-block;}
+.jiankang li,.hongbei li,.weinin li{list-style-type:none; margin-bottom:5px;}
+.jiankang h3,.hongbei h3,.weinin h3{ float:left; margin-bottom:10px; border-bottom:2px solid #F00;}
+.xigua2 h3:hover{ color:#F00;}
+.hongbei{ margin:0 70px;}
+
+.xigua3{ width:1206px; margin:0 auto; margin-top:20px; border-bottom:#F00 1px solid;}
+.xigua3 li{ display:inline-block;}
+.xigua3 li p { color:#F00; font-weight:bold; font-size:24px;}
+.xigua3 li a{ margin-left:100px; font-weight:bold;}
+.xigua3 li span{ color:#999;}
+#cai { float:right;}
+
+.xigua4 ul li{ display:inline-block; margin-left:5px;}
+.xigua4{ width:1206px; margin:0 auto; margin-top:15px;}
+.xigua4 ul li p{ color:#CCC; font-size:14px;  text-align:center; margin:10px 0;}
+.xigua4 ul li h3{ font-size:18px; text-align:center; margin-top:10px;}
+
+.xigua5{width:1206px; margin:0 auto; margin-top:20px; border-bottom:#F00 1px solid;}
+.xigua5 li{ display:inline-block; font-size:24px; font-weight:bold; color:#F00;}
+#shui { font-size:14px; color:#999; float:right;}
+
+
+
+.xigua6 ul li{ display:inline-block; margin-left:66px;}
+.xigua6{ width:1206px; margin:0 auto; margin-top:15px;}
+.xigua6 ul li p{ text-align:center;}
+
+.xigua7{ background:#CCC; margin-top:30px; margin-bottom:20px; text-align:center;}
+.xigua7 ul li a{ font-size:24px; margin-bottom:10px;}
+.xigua7 ul li{ font-size:14px;}
+.xigua7 ul li p{ font-size:24px;}
+
+
+

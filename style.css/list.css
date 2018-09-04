@@ -1,0 +1,27 @@
+/* CSS Document */
+
+*{ margin:0; padding:0;}
+.hz { background:#CCC; width:1206px; height:75px; margin:0 auto;}
+.sy{ width:1206px; margin:0 auto; position:relative;}
+.sy ul{ display:inline-block; color:#000; position:absolute; margin-top:25px; font-size:16px; margin-left:50px;}
+.sy li{ display:inline-block; color:#000; width:20px; margin-right:40px;}
+.sy li:hover { color:#F00;}
+.sy a{ color:#000;}
+
+.liebiao1{ width:1206px; margin:0 auto; margin-top:30px; border-bottom:#F00 1px solid;}
+.liebiao1 li{ display:inline-block;}
+.liebiao1 li p { color:#F00; font-weight:bold; font-size:24px;}
+.liebiao1 li a{ margin-left:100px; font-weight:bold;}
+.liebiao1 li span{ color:#999;}
+#cai { float:right;}
+
+
+.liebiao2 ul li{ display:inline-block; margin-left:4px;}
+.liebiao2{ width:1206px; margin:0 auto; margin-top:15px;}
+.liebiao2 ul li p{ color:#000; font-size:16px;  text-align:center; margin:10px 0; font-weight:bold;}
+.liebiao2 ul li h3{ font-size:18px; text-align:center; margin-top:10px;}
+
+.liebiao3{ background:#CCC; margin-top:30px; margin-bottom:20px; text-align:center;}
+.liebiao3 ul li a{ font-size:24px; margin-bottom:10px;}
+.liebiao3 ul li{ font-size:14px;}
+.liebiao3 ul li p{ font-size:24px;}
